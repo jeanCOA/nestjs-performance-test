@@ -1,0 +1,12 @@
+{
+    "type": "postgres",
+    "host": "ep-falling-salad-a4wfgqmc-pooler.us-east-1.aws.neon.tech",
+    "port": 5432,
+    "username": "default",
+    "password": "A8QDHbxqCTn3",
+    "database": "verceldb",
+    "entities": ["dist/**/*.entity{.ts,.js}"],
+    "synchronize": true
+  }
+
+  
